@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>GSCornerRadius</key>
+    <integer>15</integer>
+    <key>GSRoughenHorizontal</key>
+    <integer>15</integer>
+    <key>GSRoughenSegmentLength</key>
+    <integer>15</integer>
+    <key>GSRoughenVertical</key>
+    <integer>10</integer>
+    <key>com.schriftgestaltung.appVersion</key>
+    <string>1220</string>
+    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+    <array>
+      <string>/leftmid/euro 
+
+
+
+
+
+  
+
+
+
+
+
+
+
+</string>
+      <string>/bottommid/bit/bottomright/bottomleft/euro</string>
+      <string>0123456789</string>
+      <string>/diag-se/diag-ne/euro 
+
+
+0123456789</string>
+      <string>/euro 
+
+
+
+
+  </string>
+      <string>0123456789.,- /euro/topleft/top/topright/topmid/rightmid/leftmid/bottommid/bottomleft/bottom/br/bottomright/diag-se/diag-ne</string>
+      <string></string>
+      <string>N/bottomleft Nn:;,.N</string>
+      <string> </string>
+      <string>/euro $</string>
+    </array>
+    <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
+    <false/>
+    <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
+    <integer>1</integer>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
+    <real>0.0</real>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue1</key>
+    <real>0.0</real>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue2</key>
+    <real>0.0</real>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue3</key>
+    <real>0.0</real>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
+    <string></string>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
+    <real>100.0</real>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
+    <real>100.0</real>
+    <key>com.schriftgestaltung.fontMasterOrder</key>
+    <integer>0</integer>
+    <key>com.schriftgestaltung.glyphOrder</key>
+    <false/>
+    <key>com.schriftgestaltung.keyboardIncrement</key>
+    <integer>1</integer>
+    <key>com.schriftgestaltung.weight</key>
+    <string>Regular</string>
+    <key>com.schriftgestaltung.weightValue</key>
+    <real>100.0</real>
+    <key>com.schriftgestaltung.width</key>
+    <string>Regular</string>
+    <key>com.schriftgestaltung.widthValue</key>
+    <real>100.0</real>
+    <key>public.glyphOrder</key>
+    <array>
+      <string>A</string>
+      <string>B</string>
+      <string>C</string>
+      <string>D</string>
+      <string>E</string>
+      <string>F</string>
+      <string>G</string>
+      <string>H</string>
+      <string>I</string>
+      <string>J</string>
+      <string>K</string>
+      <string>L</string>
+      <string>M</string>
+      <string>N</string>
+      <string>O</string>
+      <string>P</string>
+      <string>Q</string>
+      <string>R</string>
+      <string>S</string>
+      <string>T</string>
+      <string>U</string>
+      <string>V</string>
+      <string>W</string>
+      <string>X</string>
+      <string>Y</string>
+      <string>Z</string>
+      <string>a</string>
+      <string>b</string>
+      <string>c</string>
+      <string>d</string>
+      <string>e</string>
+      <string>f</string>
+      <string>g</string>
+      <string>h</string>
+      <string>i</string>
+      <string>j</string>
+      <string>k</string>
+      <string>l</string>
+      <string>m</string>
+      <string>n</string>
+      <string>o</string>
+      <string>p</string>
+      <string>q</string>
+      <string>r</string>
+      <string>s</string>
+      <string>t</string>
+      <string>u</string>
+      <string>v</string>
+      <string>w</string>
+      <string>x</string>
+      <string>y</string>
+      <string>z</string>
+      <string>zero</string>
+      <string>one</string>
+      <string>two</string>
+      <string>three</string>
+      <string>four</string>
+      <string>five</string>
+      <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
+      <string>period</string>
+      <string>comma</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>hyphen</string>
+      <string>space</string>
+      <string>dollar</string>
+      <string>euro</string>
+      <string>equal</string>
+      <string>topleft</string>
+      <string>top</string>
+      <string>topright</string>
+      <string>topmid</string>
+      <string>rightmid</string>
+      <string>leftmid</string>
+      <string>bottommid</string>
+      <string>bottomleft</string>
+      <string>bottom</string>
+      <string>br</string>
+      <string>bottomright</string>
+      <string>diag-se</string>
+      <string>diag-ne</string>
+      <string>bit</string>
+    </array>
+    <key>public.postscriptNames</key>
+    <dict>
+      <key>diag-ne</key>
+      <string>diagne</string>
+      <key>diag-se</key>
+      <string>diagse</string>
+      <key>euro</key>
+      <string>Euro</string>
+    </dict>
+  </dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro" format="2">
+  <advance width="732.0"/>
+  <unicode hex="20AC"/>
+  <guideline x="306.0" y="162.0" angle="75.7841"/>
+  <guideline x="412.0" y="146.0" angle="255.7888"/>
+  <outline>
+    <component base="leftmid" xOffset="42.0"/>
+    <component base="bottommid" xOffset="42.0"/>
+    <component base="bottomleft" xOffset="42.0"/>
+    <component base="bottom" xOffset="42.0"/>
+    <component base="bottomright" xOffset="42.0"/>
+    <component base="leftmid" xScale="-1.0" yScale="-1.0" xOffset="781.0" yOffset="728.0"/>
+    <component base="bottommid" xScale="-1.0" yScale="-1.0" xOffset="781.0" yOffset="728.0"/>
+    <component base="bottom" xScale="-1.0" yScale="-1.0" xOffset="781.0" yOffset="728.0"/>
+    <component base="bottomright" xScale="-1.0" yScale="-1.0" xOffset="781.0" yOffset="728.0"/>
+    <component base="diag-se"/>
+    <component base="diag-se" xScale="-1.0" yScale="-1.0" xOffset="824.0" yOffset="728.0"/>
+    <component base="bottomleft" xScale="-1.0" yScale="-1.0" xOffset="781.0" yOffset="728.0"/>
+    <component base="diag-ne"/>
+    <component base="diag-ne" xScale="-1.0" yScale="-1.0" xOffset="824.0" yOffset="728.0"/>
+    <component base="bit" xOffset="2.0"/>
+    <component base="bit" xOffset="-211.0" yOffset="-845.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/23 19:07:44</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

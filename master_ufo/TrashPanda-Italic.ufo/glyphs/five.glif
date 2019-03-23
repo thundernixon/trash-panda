@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five" format="2">
+  <advance width="732.0"/>
+  <unicode hex="0035"/>
+  <outline>
+    <component base="leftmid" xOffset="42.0"/>
+    <component base="bottom" xOffset="42.0"/>
+    <component base="bottomright" xOffset="42.0"/>
+    <component base="leftmid" xScale="-1.0" yScale="-1.0" xOffset="781.0" yOffset="728.0"/>
+    <component base="bottom" xScale="-1.0" yScale="-1.0" xOffset="781.0" yOffset="728.0"/>
+    <component base="bottomright" xScale="-1.0" yScale="-1.0" xOffset="781.0" yOffset="728.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/23 18:49:01</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

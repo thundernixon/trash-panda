@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="366.0"/>
+  <unicode hex="003A"/>
+  <guideline x="109.0" y="220.0" angle="75.7841"/>
+  <guideline x="215.0" y="204.0" angle="255.7888"/>
+  <outline>
+    <component base="period" xOffset="114.0" yOffset="458.0"/>
+    <component base="period" xOffset="30.0" yOffset="126.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/23 18:58:23</string>
+    </dict>
+  </lib>
+</glyph>
