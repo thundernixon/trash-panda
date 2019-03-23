@@ -1,0 +1,1 @@
+fontmake -g sources/nyc-trash-pandas-9_unit.glyphs -o ttf --output-dir fonts
